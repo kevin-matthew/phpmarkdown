@@ -1,0 +1,13 @@
+* phpmarkdown
+
+Allows php to use the [[https://packages.debian.org/sid/libmarkdown2][libmarkdown2]] package for very fast markdown
+parsing.
+
+This package depends on libmarkdown2-dev and requires php build tools.
+
+* Authors
+ - Ellem Laboratories [[https://www.ellem.ai/products/libreware.php]]
+
+** License
+
+See [[file:LICENSE]]
